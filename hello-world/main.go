@@ -10,6 +10,7 @@ func handler(w http.ResponseWriter, r *http.Request) {
 }
 
 func main() {
+	fmt.Println("Server running on port 8080. Open http://localhost:8080/World in browser")
 	http.HandleFunc("/", handler)
 	http.ListenAndServe(":8080", nil)
 }

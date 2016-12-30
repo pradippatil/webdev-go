@@ -6,5 +6,5 @@ Refer wiki: https://github.com/pradippatil/webdev-go/wiki
 
 |What?|How?|
 |---|---|
-|[First web app using go](https://github.com/pradippatil/webdev-go/wiki/Getting-Started#first-web-app-using-go) | [first_app](/tree/master/first_app) |
+|[First web app using go](https://github.com/pradippatil/webdev-go/wiki/Getting-Started#first-web-app-using-go) | [first_app](/first_app) |
 
